@@ -12,5 +12,5 @@ I am a second-year Ph.D. student in [Department of Computer Science, the Univers
 
 Before admitting to UIUC as a Ph.D. student, I completed my B.Sc. and M.Sc. in Software Engineering from [Institute of Information Technology, University of Dhaka] (https://www.du.ac.bd/body/IIT). I did my master thesis on improving the performance of tree-based classifiers (Decision trees and Random forests) under the supervision of [Dr. Mohammad Shoyaib](http://www.iit.du.ac.bd/about_iit/individual_teacher/48) and Amin Ahsan Ali (http://www.cse.iub.edu.bd/faculties/53).
 
-My current research interest is in Text Mining, Information Extraction, Text Summarization, and Machine Learning. 
+My current research interest is in _Text Mining_, _Information Extraction_, _Text Summarization_, and _Machine Learning_. 
 
