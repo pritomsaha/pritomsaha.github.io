@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Emails:
 
-pakash2 [AT] illinois [DOT] edu
-
-akash [DOT] pritomsaha95 [AT] gmail [DOT] com
+* pakash2 [at] illinois [dot] edu
+* akash [dot] pritomsaha95 [at] gmail [dot] com
