@@ -43,9 +43,9 @@ Natural Language Processing
 * Awarded as an ICT fellow (2018-19) under ICT Division Bangladesh
 
 ### Master’s Thesis
-* Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019
+* Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019. [pdf](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)
 
-### Research Projects
+### Senior Project
 * Context Sensitive Spell Checking Tool for Bangla Language (Jul. 2017 - Nov. 2017)
   * A undergrad research project, worked individually
   * A Bangla Spell Checker that can detect and provide suggestions for typographic and contextual error in a sentence
