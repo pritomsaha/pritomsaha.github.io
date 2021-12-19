@@ -11,13 +11,13 @@ redirect_from:
 
 [CV](http://pritomsaha.github.io/files/CV.pdf)
 
-Education
+|Education
 ======
 * Ph.D. Computer Science, University of Illinois at Urbana-Champaign,  IL, USA (Aug. 2020 – Present)
 * MSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2018 – June 2019)
 * BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
-Research Interests
+|Research Interests
 ======
 * **Text Mining** & **Text Information Systems**, including Information Extraction, Text Summarization and
 Natural Language Processing
