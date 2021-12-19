@@ -15,3 +15,9 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * Jeba, Tahmim, Tarek Mahmud, **Pritom Saha Akash**, and Nadia Nahar. ”God Class Refactoring Recommendation and Extraction Using Context based Grouping.”
 * Md. Eusha Kadir, **Pritom Saha Akash**, Amin Ahsan Ali, Mohammad Shoyaib and Zerina Begum, ”Evidential SVM for binary classification”, ICASERT-2019: 1st International Conference on Advances in Science, Engineering and Robotics Technology.
 * Ali Zafar Sadiq, Ahmedul Kabir, **Pritom Saha Akash** and Md. Jubair Ibna Mostafa, ”Analyzing Corrective Maintenance using Change Coupled Clusters at Fix-inducing Changes”, 2019 International Conference on Electrical, Computer and Communication Engineering (ECCE).
+
+
+
+### Preprints
+* **Pritom Saha Akash**, "Exploring Variational Graph Auto-Encoders for Extract Class Refactoring Recommendation", _ResearchGate preprint:_ 10.13140/RG.2.2.14480.94727. 2021. [[pdf](https://www.researchgate.net/publication/357163809_Exploring_Variational_Graph_Auto-Encoders_for_Extract_Class_Refactoring_Recommendation)]
+* **Pritom Saha Akash**, Wei-Cheng, LaiPo-Wen Lin, "Online Aggregation based Approximate Query Processing: A Literature Survey", _ResearchGate preprint:_ 10.13140/RG.2.2.12803.22567. 2021. [[pdf](https://www.researchgate.net/publication/357164198_Online_Aggregation_based_Approximate_Query_Processing_A_Literature_Survey)]
