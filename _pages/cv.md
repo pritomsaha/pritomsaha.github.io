@@ -51,8 +51,7 @@ Natural Language Processing
   * A Bangla Spell Checker that can detect and provide suggestions for typographic and contextual error in a sentence
   * Developed using Python 3.5 and Django 1.11.2
 
-### Publications
-[Publications](https://pritomsaha.github.io/publications/)
+### [Publications](https://pritomsaha.github.io/publications/)
   
   
 ### Technical Skills
