@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://pritomsaha.github.io/files/CV.pdf)
+## Curriculum Vitae [[pdf](http://pritomsaha.github.io/files/CV.pdf)]
 
 ### Education
 * Ph.D. Computer Science, University of Illinois at Urbana-Champaign,  IL, USA (Aug. 2020 – Present)
