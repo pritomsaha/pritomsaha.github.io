@@ -257,7 +257,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+url: "https://pritomsaha.github.io" # the base hostname & protocol for your site
 # Plugins
 plugins:
   - jekyll-paginate
@@ -302,7 +302,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -311,9 +310,7 @@ compress_html:
     envs: development
     
     
-url: "https://pritomsaha.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+
     
     
 
