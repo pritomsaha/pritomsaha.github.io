@@ -55,5 +55,5 @@ Natural Language Processing
   
   
 ### Technical Skills
-* Programming: Java, Python, Matlab, C/C++, MySQL, JavaScript, HTML/CSS, R, Django, Laravel
-* Software and Tools: Git, LaTex, IntelliJ, Eclipse, Android Studio
+* Programming: Python, Java, Matlab, C/C++, MySQL, JavaScript, R
+* Software and Tools: PyTorch, scikit-learn, Git, LaTex, IntelliJ, Eclipse, Android Studio
