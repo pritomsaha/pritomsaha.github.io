@@ -21,4 +21,4 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ### Preprints
 * **Pritom Saha Akash**, "Exploring Variational Graph Auto-Encoders for Extract Class Refactoring Recommendation", _ResearchGate preprint:_ 10.13140/RG.2.2.14480.94727. 2021. [[pdf](https://www.researchgate.net/publication/357163809_Exploring_Variational_Graph_Auto-Encoders_for_Extract_Class_Refactoring_Recommendation)]
-* **Pritom Saha Akash**, Wei-Cheng, LaiPo-Wen Lin, "Online Aggregation based Approximate Query Processing: A Literature Survey", _ResearchGate preprint:_ 10.13140/RG.2.2.12803.22567. 2021. [[pdf](https://www.researchgate.net/publication/357164198_Online_Aggregation_based_Approximate_Query_Processing_A_Literature_Survey)]
+* **Pritom Saha Akash**, Wei-Cheng, Lai Po-Wen Lin, "Online Aggregation based Approximate Query Processing: A Literature Survey", _ResearchGate preprint:_ 10.13140/RG.2.2.12803.22567. 2021. [[pdf](https://www.researchgate.net/publication/357164198_Online_Aggregation_based_Approximate_Query_Processing_A_Literature_Survey)]
