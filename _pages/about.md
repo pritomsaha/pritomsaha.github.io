@@ -19,7 +19,6 @@ redirect_from:
 <br />
        
 ## Highlights
---------------
 [02/2022] One paper was accepted to Findings of ACL 2022.  
 [08/2020] Started PhD in CS at UIUC.  
 [01/2020] One paper was accepted to Proceeding of PAKDD 2020.  
