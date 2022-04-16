@@ -12,9 +12,18 @@ redirect_from:
 > 
 > Before admitting to UIUC as a Ph.D. student, I completed my B.Sc. and M.Sc. in Software Engineering from [Institute of Information Technology, University of Dhaka](https://www.du.ac.bd/body/IIT). I did my master [thesis](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier) on improving the performance of tree-based classifiers (Decision trees and Random forests) under the supervision of [Dr. Mohammad Shoyaib](http://www.iit.du.ac.bd/about_iit/individual_teacher/48) and [Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53). My current research interest is primarily in **_Text Mining_** & **_Information Extraction_**, including _Text Summarization_, _Information Retrieval_, and _Natural Language Processing_.
 
-### Highlights
-* [02/2022] One paper was accepted to Findings of ACL 2022.
-* [08/2020] Started PhD in CS at UIUC.
-* [01/2020] One paper was accepted to Proceeding of PAKDD 2020.
-* [09/2019] We won the Nurse care activity detection challenge at HASCA workshop at UbiComp 2019.
-* [05/2019] One paper was accepted to Proceeding of IJCAI 2019.
+
+
+   
+   
+   
+      
+       
+       
+## Highlights
+--------------
+[02/2022] One paper was accepted to Findings of ACL 2022.  
+[08/2020] Started PhD in CS at UIUC.  
+[01/2020] One paper was accepted to Proceeding of PAKDD 2020.  
+[09/2019] We won the Nurse care activity detection challenge at HASCA workshop at UbiComp 2019.  
+[05/2019] One paper was accepted to Proceeding of IJCAI 2019.
