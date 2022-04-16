@@ -22,5 +22,5 @@ redirect_from:
 [02/2022] One paper was accepted to Findings of ACL 2022.  
 [08/2020] Started PhD in CS at UIUC.  
 [01/2020] One paper was accepted to Proceeding of PAKDD 2020.  
-[09/2019] We won the Nurse care activity detection challenge at HASCA workshop at UbiComp 2019.  
+[09/2019] Won HASCA Nurse care activity detection challenge at UbiComp 2019.  
 [05/2019] One paper was accepted to Proceeding of IJCAI 2019.
