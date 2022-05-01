@@ -45,11 +45,20 @@ Natural Language Processing
 ### Master’s Thesis
 * Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019. [[pdf](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)]
 
-### Senior Project
-* Context Sensitive Spell Checking Tool for Bangla Language (Jul. 2017 - Nov. 2017)
-  * A undergrad research project, worked individually
-  * A Bangla Spell Checker that can detect and provide suggestions for typographic and contextual error in a sentence
+### Projects
+* Context Sensitive Bengali Spell Checker (Jul. 2017 - Nov. 2017)
+  * A Bengali Spell Checker for detecting and recommending corrections of typographic and contextual errors
   * Developed using Python 3.5 and Django 1.11.2
+* Graduate Verification System (Aug. 2017 - Oct. 2017)
+  * A web-based system for verification of a graduate
+  * Developed using PHP, Laravel and MySQL
+* Budget Planning System (Sept. 2016 - Nov. 2016)
+  * A web-based system for planning yearly budget of IIT, University of Dhaka
+  * Developed using PHP and MySQL
+* Home Budget Manager (Feb. 2015 - May 2015)
+  * An Android application to set budget and track your earnings-expenses
+  * Developed using Java, Android Studio 1.0 and SQLite
+
 
 ### [Publications](https://pritomsaha.github.io/publications/)
   
