@@ -66,3 +66,7 @@ Natural Language Processing
 ### Technical Skills
 * Programming: Python, Java, Matlab, C/C++, MySQL, JavaScript, R
 * Software and Tools: PyTorch, scikit-learn, Git, LaTex, IntelliJ, Eclipse, Android Studio
+
+
+### External Reviewer
+KDD 2021,2022; SIGIR 2021,2022; CIKIM 2021; ICDM 2021; WSDM 2021
