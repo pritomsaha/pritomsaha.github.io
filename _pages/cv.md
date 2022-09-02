@@ -17,8 +17,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
 ### Research Interests
-* **Text Mining** & **Text Information Systems**, including Information Extraction, Text Summarization and
-Natural Language Processing
+* **Text Mining** & **Natural Language Processing**, including Information Retrieval, Organization and Summarization
 
 ### Experience
 * Graduate Research Assistant: Aug. 2020 – Present  
