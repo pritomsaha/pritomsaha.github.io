@@ -18,6 +18,7 @@ redirect_from:
 <br />
 
 ## Highlights
+[10/2022] Two long papers were submitted to EACL 2023.           
 [10/2022] Our work- "Coordinated Topic Modeling" has been accepted to EMNLP 2022.           
 [02/2022] Our work- "Domain Representative Keywords Selection" has been accepted to Findings of ACL 2022.  
 [08/2020] Started PhD in CS at UIUC.  
