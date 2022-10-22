@@ -22,6 +22,6 @@ redirect_from:
 [10/2022] Our work- "Coordinated Topic Modeling" has been accepted to EMNLP 2022.           
 [02/2022] Our work- "Domain Representative Keywords Selection" has been accepted to Findings of ACL 2022.  
 [08/2020] Started PhD in CS at UIUC.  
-[01/2020] One paper has been accepted to Proceeding of PAKDD 2020.  
-[09/2019] Won HASCA Nurse care activity detection challenge at UbiComp 2019.  
-[05/2019] One paper has been accepted to Proceeding of IJCAI 2019.
+[01/2020] One long paper has been accepted to Proceeding of PAKDD 2020.  
+[09/2019] Won HASCA Nurse care activity detection challenge at UbiComp 2019 with a paper publication.  
+[05/2019] One long paper has been accepted to Proceeding of IJCAI 2019.
