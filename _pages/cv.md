@@ -35,6 +35,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 
 
 ### Awards & Grants
+* IIT Academic Excellence Gold Medal Award, 2019
 * 2019 IEEE Computer Society Bangladesh Chapter’s Award for Academic & Research Excellence in recognition of Outstanding Research Accomplishments
 * Winner in a Human activity recognition challenge called NURSE CARE ACTIVITY RECOGNITION CHALLENGE as a part of HASCA workshop at Ubicomp 2019
 * Awarded for IJCAI-AIJ 2019 TRAVEL and ACCESSIBILITY GRANT
