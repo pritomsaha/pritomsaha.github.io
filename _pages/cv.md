@@ -20,6 +20,11 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * **Text Mining** & **Natural Language Processing**, concerning Information Retrieval, Selection and Summarization
 
 ### Experience
+
+* Research Scientist Intern - Artificial Intelligence (Incoming) : May 2023 – Aug. 2023  
+  * Almaden Lab, IBM Research, San Jose, CA, USA
+  * Topic: Conversational AI
+
 * Graduate Research Assistant: Aug. 2020 – Present  
   * Data and Information Systems Laboratory, University of Illinois at Urbana-Champaign, IL, USA
   * Advisor: Prof. Kevin C. Chang
