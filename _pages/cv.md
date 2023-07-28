@@ -74,5 +74,5 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * Software and Tools: PyTorch, scikit-learn, Git, LaTex, IntelliJ, Eclipse, Android Studio
 
 
-### External Reviewer
-* KDD 2021,2022; SIGIR 2021,2022; CIKIM 2021; ICDM 2021; WSDM 2021
+### Reviewer/Co-Reviewer
+* EMNLP'23, ACL'23, KDD'21,22,23; SIGIR'21,22,23; CIKIM'21; ICDM'21; WSDM'21
