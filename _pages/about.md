@@ -12,18 +12,16 @@ I am an incoming fourth-year Ph.D. student in [Department of Computer Science, t
  
 Before admitting to UIUC as a Ph.D. student, I completed my B.Sc. and M.Sc. in Software Engineering from [Institute of Information Technology, University of Dhaka](https://www.du.ac.bd/body/IIT). I did my master [thesis](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier) on improving the performance of tree-based classifiers (Decision trees and Random forests) under the supervision of [Dr. Mohammad Shoyaib](http://www.iit.du.ac.bd/about_iit/individual_teacher/48) and [Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53). My research interests mainly are in **Text Mining** & **Natural Language Processing**, including Information Extraction, Selection and Summarization with recent interest in Recommender System.
 
-
-
 <br />
 <br />
 
 ## Highlights
-[06/2023] Five papers were submitted to EMNLP 2023.           
-[05/2023] One paper was accepted to ACL 2023.           
-[10/2022] Two long papers were submitted to EACL 2023.                    
-[10/2022] Our work- "Coordinated Topic Modeling" has been accepted to EMNLP 2022.           
-[02/2022] Our work- "Domain Representative Keywords Selection" has been accepted to Findings of ACL 2022.  
-[08/2020] Started PhD in CS at UIUC.  
-[01/2020] One long paper has been accepted to Proceeding of PAKDD 2020.  
-[09/2019] Won HASCA Nurse care activity detection challenge at UbiComp 2019 with a paper publication.  
-[05/2019] One long paper has been accepted to Proceeding of IJCAI 2019.
+[06/2023] Five papers were submitted to [EMNLP 2023]().           
+[05/2023] One paper was accepted to [ACL 2023](https://2023.aclweb.org/).           
+[10/2022] Two long papers were submitted to [EACL 2023](https://2023.eacl.org/).                    
+[10/2022] Our work- "Coordinated Topic Modeling" has been accepted to [EMNLP 2022](https://2022.emnlp.org/).           
+[02/2022] Our work- "Domain Representative Keywords Selection" has been accepted to [ACL 2022](https://www.2022.aclweb.org/).  
+[08/2020] Started PhD in [CS at UIUC](https://cs.illinois.edu/).  
+[01/2020] One long paper has been accepted to Proceeding of [PAKDD 2020](http://videolectures.net/pakdd2020_singapore/).  
+[09/2019] Won HASCA Nurse care activity detection challenge at [UbiComp 2019](https://ubicomp.org/ubicomp2019/) with a long paper publication.  
+[05/2019] One long paper has been accepted to Proceeding of [IJCAI 2019](https://www.ijcai19.org/).
