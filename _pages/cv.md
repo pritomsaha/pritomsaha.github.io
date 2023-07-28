@@ -33,7 +33,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
   * [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), Dhaka, Bangladesh
   * Duties: Developing Samsung wearable applications in Tizen platform
 * Short Course Instructor: Jan. 2018 – Sep. 2019
-  * Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh
+  * [Institute of Information Technology](http://www.iit.du.ac.bd/), University of Dhaka, Dhaka, Bangladesh
   * Duties: Instructing short courses named Web Programming, Web design and Office application
 * Software Engineer Intern: Jan. 2017 – June 2017
   * [Datasoft System Bangladesh Limited](http://datasoft-bd.com/), Dhaka, Bangladesh
@@ -51,7 +51,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 ### Master’s Thesis
 * Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019. [[pdf](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)]
 
-### Projects
+### Under Graduate Projects
 * Context Sensitive Bengali Spell Checker (Jul. 2017 - Nov. 2017)
   * A Bengali Spell Checker for detecting and recommending corrections of typographic and contextual errors
   * Developed using Python 3.5 and Django 1.11.2
