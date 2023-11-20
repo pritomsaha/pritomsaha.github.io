@@ -21,8 +21,8 @@ Before being admitted to UIUC as a Ph.D. student, I completed my B.Sc. and M.Sc.
 [05/2023] One paper was accepted to [ACL 2023](https://2023.aclweb.org/).           
 [10/2022] Two long papers were submitted to [EACL 2023](https://2023.eacl.org/).                    
 [10/2022] Our work- "Coordinated Topic Modeling" has been accepted to [EMNLP 2022](https://2022.emnlp.org/).           
-[02/2022] Our work- "Domain Representative Keywords Selection" has been accepted to [ACL 2022](https://www.2022.aclweb.org/).  
+[02/2022] Our work- "Domain Representative Keywords Selection" is accepted to [ACL 2022](https://www.2022.aclweb.org/).  
 [08/2020] Started PhD in [CS at UIUC](https://cs.illinois.edu/).  
-[01/2020] One long paper has been accepted to Proceeding of [PAKDD 2020](http://videolectures.net/pakdd2020_singapore/).  
+[01/2020] One long paper is accepted to Proceeding of [PAKDD 2020](http://videolectures.net/pakdd2020_singapore/).  
 [09/2019] Won HASCA Nurse care activity detection challenge at [UbiComp 2019](https://ubicomp.org/ubicomp2019/) with a long paper publication.  
 [05/2019] One long paper has been accepted to Proceeding of [IJCAI 2019](https://www.ijcai19.org/).
