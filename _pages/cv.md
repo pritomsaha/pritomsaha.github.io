@@ -17,24 +17,39 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
 ### Research Interests
-* **Text Mining** & **Natural Language Processing**, concerning Information Retrieval, Selection and Summarization
+* **Text Mining** & **Natural Language Processing**, concerning Information Retrieval, Selection and Summarization, and recent interest in Recommender System.
+
 
 ### Experience
+
+* Research Assistant: Aug. 2022 -- May 2023, Aug. 2023 -- Present 
+  * Co-op of CS@UIUC and eBay Inc., IL, USA
+  * Topic: Recommender System
+  * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
+ 
+* Graduate Teaching Assistant: Aug. 2023 -- Present
+  * Dept. of CS, University of Illinois at Urbana-Champaign, IL, USA
+  * Course: STAT 107- Data Science Discovery
+  * Supervisors: [Karle Flanagan](https://stat.illinois.edu/directory/profile/kflan) and [Wade Fagen-Ulmschneider](https://waf.cs.illinois.edu)
 
 * Research Scientist Intern - Artificial Intelligence : May 2023 – Aug. 2023  
   * [IBM Research – Almaden](https://research.ibm.com/labs/almaden), San Jose, CA, USA
   * Topic: Conversational AI
-  * Manager: [Lucian Popa](https://research.ibm.com/people/lucian-popa). 
+  * Manager: [Lucian Popa](https://research.ibm.com/people/lucian-popa).
 
-* Graduate Research Assistant: Aug. 2020 – Present  
-  * [Data and Information Systems Laboratory](https://dais.cs.illinois.edu/), University of Illinois at Urbana-Champaign, IL, USA
+* Graduate Research Assistant: Aug. 2020 – May 2023  
+  * University of Illinois at Urbana-Champaign, IL, USA
+  * Collaborations: IBM- Aug.'20 -- Dec'21 (Topic: NextGen Search), Aug.'22 -- May'23 (Topic: AIOps)
   * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
+    
 * Software Engineer: Nov. 2019 – Aug. 2020
   * [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), Dhaka, Bangladesh
   * Duties: Developing Samsung wearable applications in Tizen platform
+    
 * Short Course Instructor: Jan. 2018 – Sep. 2019
   * [Institute of Information Technology](http://www.iit.du.ac.bd/), University of Dhaka, Dhaka, Bangladesh
   * Duties: Instructing short courses named Web Programming, Web design and Office application
+    
 * Software Engineer Intern: Jan. 2017 – June 2017
   * [Datasoft System Bangladesh Limited](http://datasoft-bd.com/), Dhaka, Bangladesh
   * Duties: Developing two in-house automation projects
