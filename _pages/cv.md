@@ -22,7 +22,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 ### Experience
 
 * Applied Scientist Intern: May 2024 -- Aug. 2024 
-  * Amazon Prime Video \& Studios CoreTech, Seattle, WA, USA
+  * Amazon Prime Video & Studios CoreTech, Seattle, WA, USA
   * Topic: LLM in Recommender System
 
 * PhD Student Researcher: Sep. 2022 -- Present 
