@@ -17,12 +17,15 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
 ### Research Interests
-* **Text Mining** & **Natural Language Processing**, concerning Information Retrieval, Selection and Summarization, and recent interest in Recommender System.
-
+* **Natural Language Processing** (i.e., understanding and using LLMs), **Text Mining** and **Recommender Systems**
 
 ### Experience
 
-* Research Assistant: Aug. 2022 -- May 2023, Aug. 2023 -- Present 
+* Applied Scientist Intern: May 2024 -- Aug. 2024 
+  * Amazon Prime Video \& Studios CoreTech, Seattle, WA, USA
+  * Topic: LLM in Recommender System
+
+* PhD Student Researcher: Sep. 2022 -- Present 
   * Co-op of CS@UIUC and eBay Inc., IL, USA
   * Topic: Recommender System
   * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
@@ -34,7 +37,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 
 * Research Scientist Intern - Artificial Intelligence : May 2023 – Aug. 2023  
   * [IBM Research – Almaden](https://research.ibm.com/labs/almaden), San Jose, CA, USA
-  * Topic: Conversational AI
+  * Topic: Conversational AI and Long-form QA
   * Manager: [Lucian Popa](https://research.ibm.com/people/lucian-popa).
 
 * Graduate Research Assistant: Aug. 2020 – May 2023  
