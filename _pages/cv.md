@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/CV.pdf).
+The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/CV_PritomSahaAkash.pdf).
 
 ### Education
 * Ph.D. Computer Science, University of Illinois at Urbana-Champaign,  IL, USA (Aug. 2020 – Present)
