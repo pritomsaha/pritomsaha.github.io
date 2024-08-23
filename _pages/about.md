@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in [CS@UIUC](https://cs.illinois.edu/). Currently, I am working as an Applied Scientist Intern (Summer) at Amazon Prime Video and Studios CoreTech Team. During the summer of 2023, I worked as a Research Scientist Intern at IBM. My Ph.D. advisor is [Professor Kevin C.C. Chang](https://ece.illinois.edu/directory/profile/kcchang). I am also fortunate to work with [Professor ChengXiang Zhai](http://czhai.cs.illinois.edu/) under [IBM-Illinois Center for Cognitive Computing Systems Research (C3SR)](https://www.c3sr.com/). Before being admitted to UIUC as a Ph.D. student, I completed my B.Sc. and M.Sc. in Software Engineering from [IITDU](https://www.du.ac.bd/body/IIT). 
 
+I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](https://cs.illinois.edu/), advised by [Professor Kevin C.C. Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on **Natural Language Processing (NLP)**, particularly **Large Language Models (LLMs)**, **Text Mining**, and **Recommender Systems**.
 
+During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search.
 
-<ins>Research interests</ins>: **Natural Language Processing** (i.e., understanding and using LLMs), **Text Mining** and **Recommender Systems**.
+Before joining UIUC, I earned both my B.Sc. and M.Sc. degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT), where I developed a strong foundation in Software Engineering and Machine learning.
 
 <!--
 a Teaching Assistant at CS@UIUC and a PhD Student Researcher at eBay. 
