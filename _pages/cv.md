@@ -76,7 +76,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019. [[pdf](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)]
 
 ### Undergraduate Projects
-* Context Sensitive Bengali Spell Checker (Jul. 2017 - Nov. 2017)
+* [Context Sensitive Bengali Spell Checker](https://github.com/pritomsaha/Context-sensitive-Bangla-spell-checker) (Jul. 2017 - Nov. 2017)
   * A Bengali Spell Checker for detecting and recommending corrections of typographic and contextual errors
   * Developed using Python 3.5 and Django 1.11.2
 * Graduate Verification System (Aug. 2017 - Oct. 2017)
