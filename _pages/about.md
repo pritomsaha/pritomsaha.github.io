@@ -12,7 +12,7 @@ I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](htt
 
 During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search.
 
-Before joining UIUC, I earned both my B.Sc. and M.Sc. degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT), where I developed a strong foundation in Software Engineering and Machine learning.
+Before joining UIUC, I earned my B.Sc. and M.Sc. degrees in Software Engineering from the Institute of Information Technology, University of Dhaka ([IITDU](https://www.du.ac.bd/body/IIT)), where I developed a strong foundation in Software Engineering and Machine learning.
 
 <!--
 a Teaching Assistant at CS@UIUC and a PhD Student Researcher at eBay. 
