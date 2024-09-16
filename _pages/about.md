@@ -29,6 +29,13 @@ I did my master [thesis](https://www.researchgate.net/publication/357158890_An_E
 <br />
 -->
 
+## Highlights
+[08/2024] One paper is under review at [KDD 2025]([[https://2023.emnlp.org](https://2024.emnlp.org](https://kdd2025.kdd.org/research-track-call-for-papers/))).
+
+
+[08/2024] Three papers are under review at [EMNLP 2024]([https://2023.emnlp.org](https://2024.emnlp.org)). 
+
+
 <!--  ## Highlights 
 // [10/2023] One paper was submitted to [The Web Conference 2024](https://www2024.thewebconf.org).   
 [06/2023] Five papers were submitted to [EMNLP 2023](https://2023.emnlp.org).           
