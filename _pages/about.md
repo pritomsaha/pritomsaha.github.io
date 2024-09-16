@@ -30,8 +30,9 @@ I did my master [thesis](https://www.researchgate.net/publication/357158890_An_E
 -->
 
 ## Highlights
-**[08/2024]** One paper is resubmitted at [KDD 2025]([[https://2023.emnlp.org](https://2024.emnlp.org](https://kdd2025.kdd.org/research-track-call-for-papers/))).    
-**[08/2024]** Three papers are under review at [EMNLP 2024]([https://2023.emnlp.org](https://2024.emnlp.org)). 
+**[08/2024]** Co-instructing a course on "[Understanding and Using LLMs for Product Search](https://siebelschool.illinois.edu/academics/courses/cs598kcc)".   
+**[08/2024]** One paper is resubmitted at [KDD 2025](https://kdd2025.kdd.org/research-track-call-for-papers/).    
+**[08/2024]** Three papers are under review at [EMNLP 2024](https://2023.emnlp.org). 
 
 
 <!--  ## Highlights 
