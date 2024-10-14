@@ -9,7 +9,7 @@ You can also find the publications on [my Google Scholar profile](https://schola
 (*equal contribution)
 
 ### 2024
-1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Prefix-VAE: Efficient and Consistent Short-Text Topic Modeling with LLMs. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**}. 2024.
+1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Prefix-VAE: Efficient and Consistent Short-Text Topic Modeling with LLMs. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2024.
 2. Kashob Kumar Roy, **Pritom Saha Akash**, Lucian Popa, and Kevin Chen-Chuan Chang. ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2024.
 
 ### 2023
