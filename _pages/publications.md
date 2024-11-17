@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 You can also find the publications on [my Google Scholar profile](https://scholar.google.com/citations?user=mBDDbmEAAAAJ)    
-(*equal contribution)
+(*equal contribution, ✉corresponding author)
 
 ### 2024
 1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Enhancing Short-Text Topic Modeling with LLM-Driven Context
 Expansion and Prefix-Tuned VAEs. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2024.
 2. Kashob Kumar Roy, **Pritom Saha Akash**, Lucian Popa, and Kevin Chen-Chuan Chang. ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2024.
-3. Cong, Youan, Cheng Wang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models. arXiv preprint arXiv:2411.07820 (2024). [[pdf](https://arxiv.org/pdf/2411.07820)]
+3. Cong, Youan, Cheng Wang, **Pritom Saha Akash**✉, and Kevin Chen-Chuan Chang. Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models. arXiv preprint arXiv:2411.07820 (2024). [[pdf](https://arxiv.org/pdf/2411.07820)]
 
 ### 2023
 1. Lam Do, **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Unsupervised Open-domain Keyphrase Generation. The 61st Annual Meeting of the Association for Computational Linguistics **(ACL)**. 2023.
