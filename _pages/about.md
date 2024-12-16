@@ -8,13 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+👋 Hi, I’m **Pritom Saha Akash**, a fifth-year Ph.D. student and Graduate Research Assistant in [Computer Science at UIUC](https://cs.illinois.edu/), advised by [Professor Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on **Natural Language Processing (NLP)**, with particular interests in **Large Language Models (LLMs)**, **Text Mining**, and **Recommender Systems**. I also contribute to the **eBay-UIUC collaboration project**, where I work on advancing state-of-the-art recommender systems.
+
+In addition to my academic pursuits, I have gained hands-on industry experience during the summers of 2023 and 2024. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden), I worked on projects in **Conversational AI**, and at [Amazon Science](https://www.amazon.science), I contributed to cutting-edge solutions in **LLM-driven Product Search**. I’m thrilled to continue this journey as an **Applied Scientist Intern** at Amazon in the summer of 2025.
+
+Before joining UIUC, I earned both my **B.Sc.** and **M.Sc.** degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT). These formative years built my expertise in **Software Engineering** and **Machine Learning**, laying the groundwork for my current research endeavors.
+
+My passion lies in bridging academic research and real-world applications, and I’m always looking for opportunities to explore innovative ideas and contribute to impactful projects.
+
+<!--
 I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](https://cs.illinois.edu/), advised by Professor [Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on _Natural Language Processing (NLP)_, particularly _Large Language Models (LLMs)_, _Text Mining_, and _Recommender Systems_. In addition, I am a Ph.D. student researcher for the eBay-UIUC collaboration project on Recommender Systems. 
 
 During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search. **I will be returning to Amazon as an Applied Scientist Intern in summer 2025.**
 
 Before joining UIUC, I earned my B.Sc. and M.Sc. degrees in Software Engineering from the Institute of Information Technology, University of Dhaka ([IITDU](https://www.du.ac.bd/body/IIT)), where I developed a strong foundation in Software Engineering and Machine learning.
 
-<!--
+
 a Teaching Assistant at CS@UIUC and a PhD Student Researcher at eBay. 
 an Applied Scientist Intern at Amazon and
 
