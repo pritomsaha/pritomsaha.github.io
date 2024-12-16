@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](https://cs.illinois.edu/), advised by Professor [Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on **Natural Language Processing (NLP)**, particularly **Large Language Models (LLMs)**, **Text Mining**, and **Recommender Systems**. In addition, I am a Ph.D. student researcher for the eBay-UIUC collaboration project on Recommender Systems. 
 
-During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search.
+During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search. **I will be returning to Amazon as an Applied Scientist Intern in summer 2025.**
 
 Before joining UIUC, I earned my B.Sc. and M.Sc. degrees in Software Engineering from the Institute of Information Technology, University of Dhaka ([IITDU](https://www.du.ac.bd/body/IIT)), where I developed a strong foundation in Software Engineering and Machine learning.
 
