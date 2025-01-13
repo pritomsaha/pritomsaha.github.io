@@ -14,7 +14,7 @@ In addition to my academic pursuits, I have gained hands-on industry experience 
 
 Before joining UIUC, I earned both my **B.Sc.** and **M.Sc.** degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT). These formative years built my expertise in **Software Engineering** and **Machine Learning**, laying the groundwork for my current research endeavors.
 
-My passion lies in bridging academic research and real-world applications, and I’m always looking for opportunities to explore innovative ideas and contribute to impactful projects.
+
 
 <!--
 I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](https://cs.illinois.edu/), advised by Professor [Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on _Natural Language Processing (NLP)_, particularly _Large Language Models (LLMs)_, _Text Mining_, and _Recommender Systems_. In addition, I am a Ph.D. student researcher for the eBay-UIUC collaboration project on Recommender Systems. 
