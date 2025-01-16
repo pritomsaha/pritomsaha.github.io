@@ -19,14 +19,12 @@ Expansion and Prefix-Tuned VAEs. Findings of the 2024 Conference on Empirical Me
 2. **Pritom Saha Akash**, Jie Huang, and Kevin Chen-Chuan Chang. Let the Pretrained Language Models ``Imagine'' for Short Texts Topic Modeling. arXiv preprint arXiv:2310.15420 (2023). [[pdf](https://arxiv.org/pdf/2310.15420)]
 3. **Pritom Saha Akash***, Kashob Kumar Roy*, Lucian Popa, and Kevin Chen-Chuan Chang. Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach. arXiv preprint arXiv:2311.09383 (2023). [[pdf](https://arxiv.org/pdf/2311.09383)]
 4. **Pritom Saha Akash**\*, Trisha Das*, and Kevin Chen-Chuan Chang. TopicAdapt-An Inter-Corpora Topics Adaptation Approach. arXiv preprint arXiv:2310.04978 (2023). [[pdf](https://arxiv.org/pdf/2310.04978)]
+5. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Extract Class Refactoring Recommendations using Variational Graph Auto-Encoders. arXiv preprint arXiv:2203.08787 (2021). [[pdf](https://arxiv.org/pdf/2203.08787.pdf)]
 
 ### 2022
 1. **Pritom Saha Akash**, Jie Huang, Kevin Chen-Chuan Chang. Coordinated Topic Modeling. The 2022 Conference on Empirical Methods in Natural Language Processing **(EMNLP)**. 2022.
 2. **Pritom Saha Akash**, Jie Huang, Kevin Chen-Chuan Chang, Yunyao Li, Lucian Popa, ChengXiang Zhai. Domain Representative Keywords Selection: A Probabilistic Approach. Findings of the 60th Annual Meeting of the Association for Computational Linguistics **(ACL Findings)**. 2022.
-
-### 2021
-1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Exploring Variational Graph Auto-Encoders for Extract Class Refactoring Recommendation. arXiv preprint arXiv:2203.08787 (2021). [[pdf](https://arxiv.org/pdf/2203.08787.pdf)]
-2. **Pritom Saha Akash**, Wei-Cheng Lai, Po-Wen Lin. Online Aggregation based Approximate Query Processing: A Literature Survey. arXiv preprint arXiv:2204.07125 (2021). [[pdf](https://arxiv.org/pdf/2204.07125.pdf)]
+3. **Pritom Saha Akash**, Wei-Cheng Lai, Po-Wen Lin. Online Aggregation based Approximate Query Processing: A Literature Survey. arXiv preprint arXiv:2204.07125 (2021). [[pdf](https://arxiv.org/pdf/2204.07125.pdf)]
 
 ### 2020
 1. Md. Eusha Kadir, **Pritom Saha Akash**, Sadia Sharmin, Amin Ahsan Ali, and Mohammad Shoyaib. A Proximity Weighted Evidential k Nearest Neighbor Classifier for Imbalanced Data. In Pacific-Asia Conference on Knowledge Discovery and Data Mining, **(PAKDD)** pp. 71-83. Springer, Cham, 2020.
