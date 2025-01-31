@@ -21,32 +21,36 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 
 ### Experience
 
-* Graduate Research Assistant: Aug. 2024 – Present  
+* Applied Scientist Intern (Up-coming): May 2025 -- Aug. 2025 
+  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
+
+* Con-Instructor: Jan. 2025 -- Present
+  * University of Illinois at Urbana-Champaign, IL, USA
+  * Previously: Jan.'24 -- May'24, Aug.'24 -- Dec.'24
+  * Course: CS 598KCC: Understanding and Using LLMs
+  * Instructor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang)
+ 
+* Graduate Research Assistant: Aug. 2024 – Dec. 2024   
   * University of Illinois at Urbana-Champaign, IL, USA
   * Previously: Aug.'20 -- May'22, Aug.'22 -- May'23
   * Collaborations: IBM- Aug.'20 -- May'22 (Topic: NextGen Search), Aug.'22 -- May'23 (Topic: AIOps)
   * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
-
-* Con-Instructor: Aug. 2024 -- Present
-  * Dept. of CS, University of Illinois at Urbana-Champaign, IL, USA
-  * Course: CS 598: Understanding and Using LLMs
-  * Instructor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang)
  
-* PhD Student Researcher: Sep. 2022 -- Present 
+* PhD Student Researcher: Sep. 2022 -- Dec. 2024 
   * Co-op of CS@UIUC and eBay Inc., IL, USA
   * Topic: Recommender System
   * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
 
 * Applied Scientist Intern: May 2024 -- Aug. 2024 
-  * Amazon Prime Video & Studios CoreTech, Seattle, WA, USA
+  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
   * Topic: LLM in Recommender System
  
 * Graduate Teaching Assistant: Aug. 2023 -- Dec. 2023
-  * Dept. of CS, University of Illinois at Urbana-Champaign, IL, USA
+  * University of Illinois at Urbana-Champaign, IL, USA
   * Course: STAT 107- Data Science Discovery
   * Supervisors: [Karle Flanagan](https://stat.illinois.edu/directory/profile/kflan) and [Wade Fagen-Ulmschneider](https://waf.cs.illinois.edu)
 
-* Research Scientist Intern - Artificial Intelligence : May 2023 – Aug. 2023  
+* Research Scientist Intern - Artificial Intelligence: May 2023 – Aug. 2023  
   * [IBM Research – Almaden](https://research.ibm.com/labs/almaden), San Jose, CA, USA
   * Topic: Conversational AI and Long-form QA
   * Manager: [Lucian Popa](https://research.ibm.com/people/lucian-popa).
