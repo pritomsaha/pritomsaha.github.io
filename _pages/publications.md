@@ -29,7 +29,7 @@ Expansion and Prefix-Tuned VAEs. Findings of the 2024 Conference on Empirical Me
 ### 2022
 1. **Pritom Saha Akash**, Jie Huang, Kevin Chen-Chuan Chang. Coordinated Topic Modeling. The 2022 Conference on Empirical Methods in Natural Language Processing **(EMNLP)**. 2022.
 2. **Pritom Saha Akash**, Jie Huang, Kevin Chen-Chuan Chang, Yunyao Li, Lucian Popa, ChengXiang Zhai. Domain Representative Keywords Selection: A Probabilistic Approach. Findings of the 60th Annual Meeting of the Association for Computational Linguistics **(ACL Findings)**. 2022.
-3. **Pritom Saha Akash**, Wei-Cheng Lai, Po-Wen Lin. Online Aggregation based Approximate Query Processing: A Literature Survey. arXiv preprint arXiv:2204.07125 (2021). [[pdf](https://arxiv.org/pdf/2204.07125.pdf)]
+3. **Pritom Saha Akash**, Wei-Cheng Lai, Po-Wen Lin. Online Aggregation based Approximate Query Processing: A Literature Survey. arXiv preprint arXiv:2204.07125 (2022). [[pdf](https://arxiv.org/pdf/2204.07125.pdf)]
 
 ### 2020
 1. Md. Eusha Kadir, **Pritom Saha Akash**, Sadia Sharmin, Amin Ahsan Ali, and Mohammad Shoyaib. A Proximity Weighted Evidential k Nearest Neighbor Classifier for Imbalanced Data. In Pacific-Asia Conference on Knowledge Discovery and Data Mining, **(PAKDD)** pp. 71-83. Springer, Cham, 2020.
