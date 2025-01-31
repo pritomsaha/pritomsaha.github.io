@@ -39,7 +39,7 @@ I did my master [thesis](https://www.researchgate.net/publication/357158890_An_E
 -->
 
 ## Recent News
-**[01/2025]** Co-instructing a course on [Understanding and Using LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc).  
+**[01/2025]** Co-instructing a course on [LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc).  
 **[09/2024]** Two papers got accepted to [EMNLP 2024 (Findings)](https://2023.emnlp.org).
 
 <!--
