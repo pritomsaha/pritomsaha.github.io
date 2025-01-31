@@ -8,6 +8,11 @@ author_profile: true
 You can also find the publications on [my Google Scholar profile](https://scholar.google.com/citations?user=mBDDbmEAAAAJ)    
 (*equal contribution, ✉corresponding author)
 
+### 2025
+1. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang.
+RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems. arXiv preprint
+arXiv:2501.18056 (2025). [[pdf](https://arxiv.org/pdf/2501.18056)]
+
 ### 2024
 1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Enhancing Short-Text Topic Modeling with LLM-Driven Context
 Expansion and Prefix-Tuned VAEs. Findings of the 2024 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2024.
