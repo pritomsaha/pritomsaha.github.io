@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I’m **Pritom Saha Akash**, a fifth-year Ph.D. student and Graduate Research Assistant in [Computer Science at UIUC](https://cs.illinois.edu/), advised by [Professor Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on **Natural Language Processing (NLP)**, with particular interests in **Large Language Models (LLMs)**, **Text Mining**, and **Recommender Systems**. I also contribute to the **eBay-UIUC collaboration project**, where I work on advancing state-of-the-art recommender systems.
+Hi, I’m **Pritom Saha Akash**, a fifth-year Ph.D. student and Graduate Research Assistant in [Computer Science at UIUC](https://cs.illinois.edu/), advised by [Professor Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on **Natural Language Processing (NLP)**, with particular interests in **Large Language Models (LLMs)**, **Text Mining**, and **Recommender Systems**.  I have also contributed to collaborative research projects between **IBM-UIUC** and **eBay-UIUC**.
 
-In addition to my academic pursuits, I have gained hands-on industry experience during the summers of 2023 and 2024. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden), I worked on projects in **Conversational AI**, and at [Amazon Science](https://www.amazon.science), I contributed to cutting-edge solutions in **LLM-driven Product Search**. I’m thrilled to continue this journey as an **Applied Scientist Intern** at Amazon in the summer of 2025.
+In addition to my academic pursuits, I have gained hands-on industry research experience during the summers of 2023 and 2024. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden), I worked on projects in **Conversational AI**, and at [Amazon Science](https://www.amazon.science), I contributed to **LLM-driven Product Search** for Amazon Prime Video. I’m thrilled to continue this journey as an **Applied Scientist Intern** at Amazon in the summer of 2025.
 
-Before joining UIUC, I earned both my **B.Sc.** and **M.Sc.** degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT). These formative years built my expertise in **Software Engineering** and **Machine Learning**, laying the groundwork for my current research endeavors.
+Before joining UIUC, I earned both my **BS** and **MS** degrees in Software Engineering from the [Institute of Information Technology, University of Dhaka (IITDU)](https://www.du.ac.bd/body/IIT). These formative years built my expertise in **Software Engineering** and **Machine Learning**, laying the groundwork for my current research endeavors.
 
 
 
@@ -39,6 +39,7 @@ I did my master [thesis](https://www.researchgate.net/publication/357158890_An_E
 -->
 
 ## Recent News
+**[05/2025]** Three Papers got accepted to [ACL 2025](https://2025.aclweb.org) (2 Main and 1 Findings).   
 **[01/2025]** Co-instructing a course on [LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc).  
 **[09/2024]** Two papers got accepted to [EMNLP 2024 (Findings)](https://2023.emnlp.org).
 
