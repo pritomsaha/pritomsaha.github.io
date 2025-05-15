@@ -10,9 +10,9 @@ You can also find the publications on [my Google Scholar profile](https://schola
 
 ### 2025
 
-1. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. ACL 2025.
-2. Lam Thanh Do, Aaditya Bodke, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation. ACL 2025.
-3. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems. Findings of ACL 2025.
+1. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. **ACL 2025**.
+2. Lam Thanh Do, Aaditya Bodke, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation. **ACL 2025**.
+3. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems. **Findings of ACL 2025**.
 
 ### 2024
 1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Enhancing Short-Text Topic Modeling with LLM-Driven Context
