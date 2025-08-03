@@ -17,7 +17,7 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 * BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
 ### Research Interests
-* **Natural Language Processing** (i.e., understanding and using LLMs), **Text Mining** and **Recommender Systems**
+* My research interests lie in **NLP**—from **text mining** to **LLM-based generation**—and **recommender systems**, with a recent focus on designing **multi-agent systems**.
 
 ### Experience
 
