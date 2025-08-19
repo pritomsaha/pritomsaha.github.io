@@ -16,7 +16,7 @@ I hold **BS and MS degrees in Software Engineering** from the [University of Dha
 
 ---
 
-**🎓 Graduating December 2025 | Actively Seeking Full-Time Research Opportunities**  
+> 🎓 **Graduating December 2025 — Actively Seeking Full-Time Research Opportunities**
 
 
 
