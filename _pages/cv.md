@@ -19,10 +19,41 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 ### Research Interests
 * My research interests lie in **NLP**—from **text mining** to **LLM-based generation**—and **recommender systems**, with a recent focus on designing **multi-agent systems**.
 
-### Experience
-
-* Applied Scientist Intern (Up-coming): May 2025 -- Aug. 2025 
+### Industry Experiences
+* Applied Scientist Intern: May 2025 -- Aug. 2025 
   * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
+  * Topic: Multi-Agent Relevance Judgement Framework for Content Discovery
+
+* Applied Scientist Intern: May 2024 -- Aug. 2024 
+  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
+  * Topic: Multi-Task Knowledge Distillation for Efficient LLM-Based Content Discovery System
+ 
+* Research Scientist Intern - Artificial Intelligence: May 2023 – Aug. 2023  
+  * IBM Research – Almaden, San Jose, CA, USA
+  * Topic: Conversational AI and Long-form QA
+ 
+* PhD Student Researcher: Sep. 2022 -- Dec. 2024 
+  * Co-op of CS@UIUC and eBay Inc., IL, USA
+  * Topic: Recommender System
+ 
+* Software Engineer: Nov. 2019 – Aug. 2020
+  * Samsung R&D Institute Bangladesh, Dhaka, Bangladesh
+  * Duties: Developing Samsung wearable applications in Tizen platform
+    
+* Short Course Instructor: Jan. 2018 – Sep. 2019
+  * Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh
+  * Duties: Instructing short courses named Web Programming, Web design and Office application
+    
+* Software Engineer Intern: Jan. 2017 – June 2017
+  * Datasoft System Bangladesh Limited, Dhaka, Bangladesh
+  * Duties: Developing two in-house automation projects
+ 
+### University Employments
+
+* Graduate Teaching Assistant: Aug. 2025 -- Dec. 2025
+  * University of Illinois at Urbana-Champaign, IL, USA
+  * Course: CS 411- Database Systems
+  * Instructor: [Abdussalam Alawini]([https://stat.illinois.edu/directory/profile/kflan](https://siebelschool.illinois.edu/about/people/faculty/alawini))
 
 * Con-Instructor: Jan. 2025 -- Present
   * University of Illinois at Urbana-Champaign, IL, USA
@@ -35,38 +66,11 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
   * Previously: Aug.'20 -- May'22, Aug.'22 -- May'23
   * Collaborations: IBM- Aug.'20 -- May'22 (Topic: NextGen Search), Aug.'22 -- May'23 (Topic: AIOps)
   * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
- 
-* PhD Student Researcher: Sep. 2022 -- Dec. 2024 
-  * Co-op of CS@UIUC and eBay Inc., IL, USA
-  * Topic: Recommender System
-  * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
 
-* Applied Scientist Intern: May 2024 -- Aug. 2024 
-  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
-  * Topic: LLM in Recommender System
- 
 * Graduate Teaching Assistant: Aug. 2023 -- Dec. 2023
   * University of Illinois at Urbana-Champaign, IL, USA
   * Course: STAT 107- Data Science Discovery
-  * Supervisors: [Karle Flanagan](https://stat.illinois.edu/directory/profile/kflan) and [Wade Fagen-Ulmschneider](https://waf.cs.illinois.edu)
-
-* Research Scientist Intern - Artificial Intelligence: May 2023 – Aug. 2023  
-  * [IBM Research – Almaden](https://research.ibm.com/labs/almaden), San Jose, CA, USA
-  * Topic: Conversational AI and Long-form QA
-  * Manager: [Lucian Popa](https://research.ibm.com/people/lucian-popa).
-    
-* Software Engineer: Nov. 2019 – Aug. 2020
-  * [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), Dhaka, Bangladesh
-  * Duties: Developing Samsung wearable applications in Tizen platform
-    
-* Short Course Instructor: Jan. 2018 – Sep. 2019
-  * [Institute of Information Technology](http://www.iit.du.ac.bd/), University of Dhaka, Dhaka, Bangladesh
-  * Duties: Instructing short courses named Web Programming, Web design and Office application
-    
-* Software Engineer Intern: Jan. 2017 – June 2017
-  * [Datasoft System Bangladesh Limited](http://datasoft-bd.com/), Dhaka, Bangladesh
-  * Duties: Developing two in-house automation projects
-
+  * Instructors: [Karle Flanagan](https://stat.illinois.edu/directory/profile/kflan) and [Wade Fagen-Ulmschneider](https://waf.cs.illinois.edu)
 
 ### Awards & Grants
 * IIT Academic Excellence Gold Medal Award, 2019
