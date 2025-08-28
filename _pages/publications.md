@@ -9,10 +9,10 @@ You can also find the publications on [my Google Scholar profile](https://schola
 (*equal contribution, ✉corresponding author)
 
 ### 2025
-
-1. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
-2. Lam Thanh Do, Aaditya Bodke, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation.The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
-3. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems. Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**). 2025.
+1. Youan Cong*, **Pritom Saha Akash***, Cheng Wang*, and Kevin Chen-Chuan Chang. Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models. Findings of the 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2025.
+2. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
+3. Lam Thanh Do, Aaditya Bodke, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation.The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
+4. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems. Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**). 2025.
 
 ### 2024
 1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Enhancing Short-Text Topic Modeling with LLM-Driven Context
