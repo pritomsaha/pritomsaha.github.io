@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find the publications on [my Google Scholar profile](https://scholar.google.com/citations?user=mBDDbmEAAAAJ)    
-(*equal contribution, ✉corresponding author)
+(*equal contribution)
 
 ### 2025
 1. Youan Cong*, **Pritom Saha Akash***, Cheng Wang*, and Kevin Chen-Chuan Chang. Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models. Findings of the 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2025.
