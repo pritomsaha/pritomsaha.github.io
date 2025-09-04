@@ -21,11 +21,11 @@ The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/C
 
 ### Industry Experiences
 * Applied Scientist Intern: May 2025 -- Aug. 2025 
-  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
+  * Prime Video & Amazon MGM Studios, Amazon, Seattle, WA, USA
   * Topic: Multi-Agent Relevance Judgement Framework for Content Discovery
 
 * Applied Scientist Intern: May 2024 -- Aug. 2024 
-  * Amazon Prime Video & Studios CoreTech, Amazon, Seattle, WA, USA
+  * Prime Video & Amazon MGM Studios, Amazon, Seattle, WA, USA
   * Topic: Multi-Task Knowledge Distillation for Efficient LLM-Based Content Discovery System
  
 * Research Scientist Intern - Artificial Intelligence: May 2023 – Aug. 2023  
