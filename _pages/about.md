@@ -41,14 +41,24 @@ I did my master [thesis](https://www.researchgate.net/publication/357158890_An_E
 <br />
 <br />
 -->
+## Recent News
+**[08/2025]** One paper accepted to [EMNLP 2025](https://2025.emnlp.org) (Findings)    
+**[05/2025]** Three papers accepted to [ACL 2025](https://2025.aclweb.org) — two in the Main Conference and one in the Findings of ACL.  
+**[05/2025]** Started internship as Research Scientist at Amazon  
+**[01/2025]** Co-instructing the course: [LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc) *(previously in 08/2024 and 01/2024)*       
+**[09/2024]** Two papers got accepted to [EMNLP 2024 (Findings)](https://2023.emnlp.org).  
+**[05/2024]** Started internship as Applied Scientist at Amazon  
+**[05/2023]** One co-authored paper accepted to [ACL 2023](https://2023.aclweb.org)  
+**[05/2023]** Started internship as Research Scientist at IBM
 
+<!--
 ## Recent News
 **[05/2025]** One paper accepted to [EMNLP 2025 ](https://2025.emnlp.org) (Findings)         
 **[05/2025]** Three papers accepted to [ACL 2025](https://2025.aclweb.org) — two in the Main Conference and one in the Findings of ACL.       
 **[01/2025]** Co-instructing a course on [LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc).  
 **[09/2024]** Two papers got accepted to [EMNLP 2024 (Findings)](https://2023.emnlp.org).
 
-<!--
+
 **[08/2024]** One paper is resubmitted at [KDD 2025](https://kdd2025.kdd.org/research-track-call-for-papers/).    
 **[08/2024]** Three papers are under review at [EMNLP 2024](https://2023.emnlp.org). 
 
