@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I’m **Pritom Saha Akash**, a fifth-year Ph.D. student and Graduate Research Assistant in [Computer Science at UIUC](https://cs.illinois.edu/), advised by [Professor Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research interests lie in **Natural Language Processing (NLP)**—from **text mining** to **LLM-based generation**—and **recommender systems**, with a recent focus on **designing multi-agent systems**. I have also contributed to collaborative research projects between **IBM-UIUC** and **eBay-UIUC**.  
 
-Beyond academia, I have gained hands-on industry research experience during the summers of 2023, 2024, and 2025. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden) (2023), I worked on **Conversational AI**, and at [Amazon Science](https://www.amazon.science) (2024, 2025), I contributed to **LLM-driven Product Search** for Amazon Prime Video.  
+Beyond academia, I have gained hands-on industry research experience during the summers of 2023, 2024, and 2025. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden) (2023), I worked on **Conversational AI**, and at [Prime Video & Amazon MGM Studios](https://www.linkedin.com/company/primevideoamazonstudios) (2024, 2025), I contributed to **LLM-driven Product Search** for Amazon Prime Video.  
 
 I hold **BS and MS degrees in Software Engineering** from the [University of Dhaka, IIT](https://www.du.ac.bd/body/IIT), which laid the groundwork for my current research in **software systems, machine learning, and NLP**.  
 
