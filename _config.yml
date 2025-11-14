@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pritom Saha Akash"
 title_separator          : "-"
 name                     : &name "Pritom Saha Akash"
-description              : &description "PhD Candidate in CS @ UIUC | NLP · LLMs · Multi-Agent Systems · Recommender Systems | Research Intern Experience @ Amazon (x2) & IBM"
+description              : &description "Incoming Applied Scientist @ Amazon (Prime Video) | PhD in CS, UIUC | NLP · LLMs"
 url                      : https://pritomsaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pritomsaha.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pritom Saha Akash"
   avatar           : "mydp.jpg"
-  bio              : "PhD Candidate in CS @ UIUC | NLP · LLMs · Multi-Agent Systems · Recommender Systems | Research Intern Experience @ Amazon (x2) & IBM"
+  bio              : "Incoming Applied Scientist @ Amazon (Prime Video) | PhD in CS, UIUC | NLP · LLMs"
   location         : "Urbana, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
