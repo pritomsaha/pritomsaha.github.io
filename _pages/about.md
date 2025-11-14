@@ -6,23 +6,19 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
+---
 Hi, I’m **Pritom Saha Akash**. I recently defended my Ph.D. in **Computer Science at UIUC**, where I worked with **Professor Kevin Chang** on problems spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-agent Systems**, and **Recommender Systems**. My research covers text mining, LLM-based generation, semantic modeling, and multi-agent frameworks for search and content discovery. I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**.
 
 Beyond academia, I gained hands-on industry research experience at **IBM Research** (2023) as a Research Scientist Intern working on **Conversational AI**, and at **Prime Video & Amazon MGM Studios** (2024, 2025) as an Applied Scientist Intern working on **LLM-driven Product Search** and **multi-agent relevance judgment**.
 
-I hold **BS and MS degrees in Software Engineering** from the **University of Dhaka (IIT)**, which laid the foundation for my work in software systems, machine learning, and NLP.
+I hold **BS and MS degrees in Software Engineering** from the **University of Dhaka (IIT)**, which laid the foundation for my work in software systems, machine learning, and NLP. I will be **joining Amazon as an Applied Scientist** in January 2026.
 
-**I will be joining Amazon as an Applied Scientist in January 2026.**
 
 ---
 
 
 
-<br />
-<br />
--->
 ## Recent News
 **[10/2025]** Successfully defended my Ph.D. in Computer Science at UIUC   
 **[08/2025]** One paper accepted to [EMNLP 2025](https://2025.emnlp.org) (Findings)    
