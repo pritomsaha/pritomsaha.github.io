@@ -20,7 +20,7 @@ I hold **BS and MS degrees in Software Engineering** from the **University of Dh
 
 
 ## Recent News
-**[10/2025]** Successfully defended my Ph.D. in Computer Science at UIUC   
+**[10/2025]** Successfully **defended my Ph.D.** in Computer Science at UIUC   
 **[08/2025]** One paper accepted to [EMNLP 2025](https://2025.emnlp.org) (Findings)    
 **[05/2025]** Three papers accepted to [ACL 2025](https://2025.aclweb.org) — two in the Main Conference and one in the Findings of ACL.  
 **[05/2025]** Started internship as **Applied Scientist at Amazon**
