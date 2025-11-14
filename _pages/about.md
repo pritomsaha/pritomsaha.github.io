@@ -8,40 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Pritom Saha Akash**, a fifth-year Ph.D. student and Graduate Research Assistant in [Computer Science at UIUC](https://cs.illinois.edu/), advised by [Professor Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research interests lie in **Natural Language Processing (NLP)**—from **text mining** to **LLM-based generation**—and **recommender systems**, with a recent focus on **designing multi-agent systems**. I have also contributed to collaborative research projects between **IBM-UIUC** and **eBay-UIUC**.  
+Hi, I’m **Pritom Saha Akash**. I recently defended my Ph.D. in **Computer Science at UIUC**, where I worked with **Professor Kevin Chang** on problems spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-agent Systems**, and **Recommender Systems**. My research covers text mining, LLM-based generation, semantic modeling, and multi-agent frameworks for search and content discovery. I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**.
 
-Beyond academia, I have gained hands-on industry research experience during the summers of 2023, 2024, and 2025. As a **Research Scientist Intern** at [IBM Research](https://research.ibm.com/labs/almaden) (2023), I worked on **Conversational AI**, and at [Prime Video & Amazon MGM Studios](https://www.linkedin.com/company/primevideoamazonstudios) (2024, 2025), I contributed to **LLM-driven Product Search** for Amazon Prime Video.  
+Beyond academia, I gained hands-on industry research experience at **IBM Research** (2023) as a Research Scientist Intern working on **Conversational AI**, and at **Prime Video & Amazon MGM Studios** (2024, 2025) as an Applied Scientist Intern working on **LLM-driven Product Search** and **multi-agent relevance judgment**.
 
-I hold **BS and MS degrees in Software Engineering** from the [University of Dhaka, IIT](https://www.du.ac.bd/body/IIT), which laid the groundwork for my current research in **software systems, machine learning, and NLP**.  
+I hold **BS and MS degrees in Software Engineering** from the **University of Dhaka (IIT)**, which laid the foundation for my work in software systems, machine learning, and NLP.
+
+**I will be joining Amazon as an Applied Scientist in January 2026.**
 
 ---
 
-> 🎓 **Actively seeking full-time roles in research or ML engineering, especially in LLMs, ranking, and agent systems.”**
-
-
-
-<!--
-I am a fifth-year Ph.D. student and graduate research assistant in [CS@UIUC](https://cs.illinois.edu/), advised by Professor [Kevin Chang](https://ece.illinois.edu/directory/profile/kcchang). My research focuses on _Natural Language Processing (NLP)_, particularly _Large Language Models (LLMs)_, _Text Mining_, and _Recommender Systems_. In addition, I am a Ph.D. student researcher for the eBay-UIUC collaboration project on Recommender Systems. 
-
-During the summers of 2023 and 2024, I gained industry experience as a Research Scientist Intern at [IBM](https://research.ibm.com/labs/almaden) and as an Applied Scientist Intern at [Amazon](https://www.amazon.science), where I contributed to projects related to Conversational AI and LLM in Product Search. **I will be returning to Amazon as an Applied Scientist Intern in summer 2025.**
-
-Before joining UIUC, I earned my B.Sc. and M.Sc. degrees in Software Engineering from the Institute of Information Technology, University of Dhaka ([IITDU](https://www.du.ac.bd/body/IIT)), where I developed a strong foundation in Software Engineering and Machine learning.
-
-
-a Teaching Assistant at CS@UIUC and a PhD Student Researcher at eBay. 
-an Applied Scientist Intern at Amazon and
-
-Before that, I had an experience as a Research Assistant at the Data and Information Systems ([DAIS](https://cs.illinois.edu/research/areas/data-and-information-systems)) 
-
-Laboratory under the supervision of my
-
-I did my master [thesis](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier) on improving the performance of tree-based classifiers (Decision trees and Random forests). 
 
 
 <br />
 <br />
 -->
 ## Recent News
+**[10/2025]** Successfully defended my Ph.D. in Computer Science at UIUC   
 **[08/2025]** One paper accepted to [EMNLP 2025](https://2025.emnlp.org) (Findings)    
 **[05/2025]** Three papers accepted to [ACL 2025](https://2025.aclweb.org) — two in the Main Conference and one in the Findings of ACL.  
 **[05/2025]** Started internship as **Applied Scientist at Amazon**
