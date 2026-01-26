@@ -11,100 +11,93 @@ redirect_from:
 
 The PDF version of my CV can be found [here](http://pritomsaha.github.io/files/CV_PritomSahaAkash.pdf).
 
-### Education
-* Ph.D. Computer Science, University of Illinois at Urbana-Champaign,  IL, USA (Aug. 2020 – Present)
-* MSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2018 – June 2019)
-* BSc. Software Engineering, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
+---
 
-### Research Interests
-* My research interests lie in **NLP**—from **text mining** to **LLM-based generation**—and **recommender systems**, with a recent focus on designing **multi-agent systems**.
+## Education
+* **Ph.D. in Computer Science**, University of Illinois at Urbana-Champaign, Urbana, IL, USA (Aug. 2020 – Dec. 2025)  
+* **M.S. in Software Engineering**, University of Dhaka, Dhaka, Bangladesh (Jan. 2018 – June 2019)  
+* **B.S. in Software Engineering**, University of Dhaka, Dhaka, Bangladesh (Jan. 2014 – Dec. 2017)
 
-### Industry Experiences
-* Applied Scientist Intern: May 2025 -- Aug. 2025 
-  * Prime Video & Amazon MGM Studios, Amazon, Seattle, WA, USA
-  * Topic: Multi-Agent Relevance Judgement Framework for Content Discovery
+---
 
-* Applied Scientist Intern: May 2024 -- Aug. 2024 
-  * Prime Video & Amazon MGM Studios, Amazon, Seattle, WA, USA
-  * Topic: Multi-Task Knowledge Distillation for Efficient LLM-Based Content Discovery System
- 
-* Research Scientist Intern - Artificial Intelligence: May 2023 – Aug. 2023  
-  * IBM Research – Almaden, San Jose, CA, USA
-  * Topic: Conversational AI and Long-form QA
- 
-* PhD Student Researcher: Sep. 2022 -- Dec. 2024 
-  * Co-op of CS@UIUC and eBay Inc., IL, USA
-  * Topic: Recommender System
- 
-* Software Engineer: Nov. 2019 – Aug. 2020
-  * Samsung R&D Institute Bangladesh, Dhaka, Bangladesh
-  * Duties: Developing Samsung wearable applications in Tizen platform
-    
-* Short Course Instructor: Jan. 2018 – Sep. 2019
-  * Institute of Information Technology, University of Dhaka, Dhaka, Bangladesh
-  * Duties: Instructing short courses named Web Programming, Web design and Office application
-    
-* Software Engineer Intern: Jan. 2017 – June 2017
-  * Datasoft System Bangladesh Limited, Dhaka, Bangladesh
-  * Duties: Developing two in-house automation projects
- 
-### University Employments
+## Research Interests
+My research interests lie in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Recommender Systems**, with a focus on:
+- Semantic modeling and representation learning  
+- LLM-based generation and alignment  
+- Multi-agent systems for search and content discovery  
 
-* Graduate Teaching Assistant: Aug. 2025 -- Dec. 2025
-  * University of Illinois at Urbana-Champaign, IL, USA
-  * Course: CS 411- Database Systems
-  * Instructor: [Abdussalam Alawini]([https://stat.illinois.edu/directory/profile/kflan](https://siebelschool.illinois.edu/about/people/faculty/alawini))
+---
 
-* Con-Instructor: Jan. 2025 -- Present
-  * University of Illinois at Urbana-Champaign, IL, USA
-  * Previously: Jan.'24 -- May'24, Aug.'24 -- Dec.'24
-  * Course: CS 598KCC: Understanding and Using LLMs
-  * Instructor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang)
- 
-* Graduate Research Assistant: Aug. 2024 – Dec. 2024   
-  * University of Illinois at Urbana-Champaign, IL, USA
-  * Previously: Aug.'20 -- May'22, Aug.'22 -- May'23
-  * Collaborations: IBM- Aug.'20 -- May'22 (Topic: NextGen Search), Aug.'22 -- May'23 (Topic: AIOps)
-  * Advisor: [Prof. Kevin C. Chang](https://cs.illinois.edu/about/people/faculty/kcchang).
+## Industry Experience
 
-* Graduate Teaching Assistant: Aug. 2023 -- Dec. 2023
-  * University of Illinois at Urbana-Champaign, IL, USA
-  * Course: STAT 107- Data Science Discovery
-  * Instructors: [Karle Flanagan](https://stat.illinois.edu/directory/profile/kflan) and [Wade Fagen-Ulmschneider](https://waf.cs.illinois.edu)
+* **Applied Scientist II**, Amazon (Prime Video & Amazon MGM Studios), Seattle, WA, USA (Jan. 2026 – Present)  
+  * Focus: LLM-powered AI assistant for Prime Video search and content discovery
 
-### Awards & Grants
-* IIT Academic Excellence Gold Medal Award, 2019
-* 2019 IEEE Computer Society Bangladesh Chapter’s Award for Academic & Research Excellence in recognition of Outstanding Research Accomplishments
-* Winner in a Human activity recognition challenge called NURSE CARE ACTIVITY RECOGNITION CHALLENGE as a part of HASCA workshop at Ubicomp 2019
-* Awarded for IJCAI-AIJ 2019 TRAVEL and ACCESSIBILITY GRANT
-* Awarded as the best presenter in an international conference, ICREST 2019
-* Awarded as an ICT fellow (2018-19) under ICT Division Bangladesh
+* **Applied Scientist Intern**, Amazon (Prime Video & Amazon MGM Studios), Seattle, WA, USA (May 2025 – Aug. 2025)  
+  * Conducted research on multi-agent relevance judgment for content discovery
 
-### Master’s Thesis
-* Pritom Saha Akash, ”An Evidential Inter-node Hellinger Distance based Tree Classifier”, Institute of Information Technology, University of Dhaka, 2019. [[pdf](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)]
+* **Applied Scientist Intern**, Amazon (Prime Video & Amazon MGM Studios), Seattle, WA, USA (May 2024 – Aug. 2024)  
+  * Developed a multi-task knowledge distillation framework for efficient LLM-based content discovery systems
 
-### Undergraduate Projects
-* [Context Sensitive Bengali Spell Checker](https://github.com/pritomsaha/Context-sensitive-Bangla-spell-checker) (Jul. 2017 - Nov. 2017)
-  * A Bengali Spell Checker for detecting and recommending corrections of typographic and contextual errors
-  * Developed using Python 3.5 and Django 1.11.2
-* Graduate Verification System (Aug. 2017 - Oct. 2017)
-  * A web-based system for verification of a graduate
-  * Developed using PHP, Laravel and MySQL
-* Budget Planning System (Sept. 2016 - Nov. 2016)
-  * A web-based system for planning yearly budget of IIT, University of Dhaka
-  * Developed using PHP and MySQL
-* Home Budget Manager (Feb. 2015 - May 2015)
-  * An Android application to set budget and track your earnings-expenses
-  * Developed using Java, Android Studio 1.0 and SQLite
+* **Research Scientist Intern**, IBM Research (Almaden Lab), San Jose, CA, USA (May 2023 – Aug. 2023)  
+  * Conducted research on conversational AI and long-form question answering
 
+* **Researcher (PhD)**, UIUC × eBay Research Collaboration, Urbana, IL, USA (Sep. 2022 – Dec. 2024)  
+  * Conducted research on recommender systems, focusing on user preference modeling
 
-### [Publications](https://pritomsaha.github.io/publications/)
-  
-  
-### Technical Skills
-* Programming: Python, Java, Matlab, C/C++, MySQL, JavaScript, R
-* Software and Tools: PyTorch, scikit-learn, Git, LaTex, IntelliJ, Eclipse, Android Studio
+* **Software Engineer**, Samsung R&D Institute Bangladesh, Dhaka, Bangladesh (Nov. 2019 – Aug. 2020)  
+  * Built and maintained applications for Samsung wearable devices (Tizen platform)
 
+---
 
-### Reviewer/Co-Reviewer
-* EMNLP'23,24; ACL'23,24; EACL'23, KDD'21,22,23,24; SIGIR'21,22,23,24; CIKIM'21; ICDM'21; WSDM'21
+## University Experience
+
+* **Graduate Teaching Assistant**, University of Illinois at Urbana-Champaign (Aug. 2025 – Dec. 2025)  
+  * Course: CS 411 – Database Systems  
+
+* **Co-Instructor**, University of Illinois at Urbana-Champaign (Jan. 2025 – May 2025)  
+  * Course: CS 598KCC – Understanding and Using LLMs  
+  * Previously co-instructed: Spring 2024, Fall 2024  
+
+* **Graduate Research Assistant**, University of Illinois at Urbana-Champaign (Aug. 2020 – Dec. 2024)  
+  * Advisor: Prof. Kevin C. Chang  
+  * Collaborations with IBM and industry partners on search and language systems  
+
+* **Graduate Teaching Assistant**, University of Illinois at Urbana-Champaign (Aug. 2023 – Dec. 2023)  
+  * Course: STAT 107 – Data Science Discovery  
+
+---
+
+## Awards & Grants
+* IIT Academic Excellence Gold Medal Award (2019)  
+* IEEE Computer Society Bangladesh Chapter Award for Academic & Research Excellence (2019)  
+* Winner, Nurse Care Activity Recognition Challenge (Ubicomp HASCA Workshop, 2019)  
+* IJCAI-AIJ Travel and Accessibility Grant (2019)  
+* Best Presenter Award, ICREST Conference (2019)  
+* ICT Fellowship, ICT Division Bangladesh (2018–2019)
+
+---
+
+## Theses
+* **Ph.D. Dissertation**: *Advancing Semantic Modeling: Addressing Coordination, Interpretability, and Data Scarcity in Domain Representation*, UIUC, 2025  
+* **Master’s Thesis**: *An Evidential Inter-node Hellinger Distance based Tree Classifier*, University of Dhaka, 2019  
+  [[PDF](https://www.researchgate.net/publication/357158890_An_Evidential_Inter-node_Hellinger_Distance_based_Tree_Classifier)]  
+* **Undergraduate Thesis**: *Context Sensitive Bengali Spell Checker*, University of Dhaka, 2017  
+
+---
+
+## Publications
+See full list here:  
+👉 https://pritomsaha.github.io/publications/
+
+---
+
+## Technical Skills
+* **Programming**: Python, Java, C/C++, JavaScript, R, MATLAB  
+* **Frameworks & Tools**: PyTorch, scikit-learn, Git, LaTeX  
+
+---
+
+## Academic Service
+* Reviewer: EMNLP 2023–2025, ACL 2023–2025, EACL 2024, ARR 2023-2026
+* Co-reviewer: KDD, SIGIR, CIKM, ICDM, WSDM (multiple years)
