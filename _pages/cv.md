@@ -86,9 +86,7 @@ My research interests lie in **Natural Language Processing (NLP)**, **Large Lang
 
 ---
 
-## Publications
-See full list here:  
-👉 https://pritomsaha.github.io/publications/
+## [Publications](https://pritomsaha.github.io/publications/)
 
 ---
 
