@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* pakash2 [at] illinois [dot] edu
+* sapritom [at] amazon [dot] com
 * akash [dot] pritomsaha95 [at] gmail [dot] com
