@@ -8,6 +8,13 @@ author_profile: true
 You can also find the publications on [my Google Scholar profile](https://scholar.google.com/citations?user=mBDDbmEAAAAJ)    
 (*equal contribution)
 
+## Patents
+
+1. Qihao Wang, **Pritom Saha Akash**, Varvara Kollia, Kevin Chen-Chuan Chang, Biwei Jiang, Vadim Von Brzeski. 
+   *Cascading Category Recommender.* U.S. Patent Application No. 19/078,705, published Nov. 20, 2025.
+   
+## Publications and Preprints
+
 ### 2025
 1. Youan Cong, **Pritom Saha Akash**, Cheng Wang, and Kevin Chen-Chuan Chang. Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models. Findings of the 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP Findings)**. 2025.
 2. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
