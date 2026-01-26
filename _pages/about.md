@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 
 ---
-Hi, I’m **Pritom Saha Akash**. I recently defended my Ph.D. in **Computer Science at UIUC**, where I worked with **Professor Kevin Chang** on problems spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-agent Systems**, and **Recommender Systems**. My research covers text mining, LLM-based generation, semantic modeling, and multi-agent frameworks for search and content discovery. I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**.
+Hi, I’m **Pritom Saha Akash**, an **Applied Scientist II at Amazon (Prime Video & Amazon MGM Studios)**. I recently completed my Ph.D. in **Computer Science at UIUC**, where I worked with **Professor Kevin Chang** on research spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-agent Systems**, and **Recommender Systems**.
 
-Beyond academia, I gained hands-on industry research experience at **IBM Research** (2023) as a Research Scientist Intern working on **Conversational AI**, and at **Prime Video & Amazon MGM Studios** (2024, 2025) as an Applied Scientist Intern working on **LLM-driven Product Search** and **multi-agent relevance judgment**.
+My research focuses on **semantic modeling, LLM-based generation, and agentic frameworks** for improving **search, recommendation, and content discovery**. I am particularly interested in how structured representations and multi-agent reasoning can improve alignment between **user intent, item relevance, and domain knowledge**. My work has been published at top venues including **ACL, EMNLP, IJCAI, and PAKDD**.
 
-I hold **BS and MS degrees in Software Engineering** from the **University of Dhaka (IIT)**, which laid the foundation for my work in software systems, machine learning, and NLP. I will be **joining Amazon as an Applied Scientist** in January 2026.
+I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**, and gained industry research experience through internships at **IBM Research (2023)** and **Amazon (2024, 2025)**.
+
+I hold **B.S. and M.S. degrees in Software Engineering** from the **University of Dhaka (IIT)**.
 
 
 ---
@@ -20,15 +22,16 @@ I hold **BS and MS degrees in Software Engineering** from the **University of Dh
 
 
 ## Recent News
-**[10/2025]** Successfully **defended my Ph.D.** in Computer Science at UIUC   
-**[08/2025]** One paper accepted to [EMNLP 2025](https://2025.emnlp.org) (Findings)    
-**[05/2025]** Three papers accepted to [ACL 2025](https://2025.aclweb.org) — two in the Main Conference and one in the Findings of ACL.  
-**[05/2025]** Started internship as **Applied Scientist at Amazon**
-**[01/2025]** Co-instructing the course: [LLMs for Long-Form Text Generation](https://siebelschool.illinois.edu/academics/courses/cs598kcc) *(previously in 08/2024 and 01/2024)*       
-**[09/2024]** Two papers got accepted to [EMNLP 2024 (Findings)](https://2023.emnlp.org).  
-**[05/2024]** Started internship as **Applied Scientist at Amazon**  
-**[05/2023]** One co-authored paper accepted to [ACL 2023](https://2023.aclweb.org)  
-**[05/2023]** Started internship as **Research Scientist at IBM**
+**[01/2026]** Joined Amazon as **Applied Scientist II** (Prime Video & Amazon MGM Studios)
+**[10/2025]** Successfully **defended my Ph.D.** in Computer Science at UIUC  
+**[08/2025]** One paper accepted to **EMNLP 2025 (Findings)**  
+**[05/2025]** Three papers accepted to **ACL 2025** — two in the Main Conference and one in the Findings  
+**[05/2025]** Started internship as **Applied Scientist at Amazon (Prime Video & Amazon MGM Studios)**  
+**[01/2025]** Co-instructed the course: *LLMs for Long-Form Text Generation* (also in 08/2024 and 01/2024)  
+**[09/2024]** Two papers accepted to **EMNLP 2024 (Findings)**  
+**[05/2024]** Started internship as **Applied Scientist at Amazon (Prime Video & Amazon MGM Studios)**  
+**[05/2023]** One co-authored paper accepted to **ACL 2023**  
+**[05/2023]** Started internship as **Research Scientist Intern at IBM Research**
 
 <!--
 ## Recent News
