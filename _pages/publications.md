@@ -13,6 +13,7 @@ You can also find the publications on [my Google Scholar profile](https://schola
 2. **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling. The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
 3. Lam Thanh Do, Aaditya Bodke, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation.The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**). 2025.
 4. Duy A. Nguyen, Rishi Kesav Mohan, Van Yang, **Pritom Saha Akash**, and Kevin Chen-Chuan Chang. MiniELM: A Lightweight and Adaptive Query Rewriting Framework for E-Commerce Search Optimization. Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**). 2025.
+5. Qihao Wang*, **Pritom Saha Akash***, Varvara Kollia,  Biwei Jiang,  Vadim Von Brzeski, Kevin Chen-Chuan Chang. On Category Recommendation: A Cascading Approach. arXiv preprint arXiv:2512.16033 (2025). [[pdf](https://arxiv.org/pdf/2512.16033)]
 
 ### 2024
 1. **Pritom Saha Akash**, Kevin Chen-Chuan Chang. Enhancing Short-Text Topic Modeling with LLM-Driven Context
