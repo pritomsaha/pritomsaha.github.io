@@ -14,9 +14,6 @@ My research focuses on **semantic modeling, LLM-based generation, and agentic fr
 
 I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**, and gained industry research experience through internships at **IBM Research (2023)** and **Amazon (2024, 2025)**.
 
-I hold **B.S. and M.S. degrees in Software Engineering** from the **University of Dhaka (IIT)**.
-
-
 ---
 
 
