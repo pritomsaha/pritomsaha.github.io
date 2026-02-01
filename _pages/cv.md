@@ -31,7 +31,7 @@ My research interests lie in **Natural Language Processing (NLP)**, **Large Lang
 ## Industry Experience
 
 * **Applied Scientist II**, Amazon (Prime Video & Amazon MGM Studios), Seattle, WA, USA (Jan. 2026 – Present)  
-  * Focus: LLM-powered AI assistant for Prime Video search and content discovery
+  * Researching and developing LLM/ML methods for Prime Video personalization, evaluation, and content discovery.
 
 * **Applied Scientist Intern**, Amazon (Prime Video & Amazon MGM Studios), Seattle, WA, USA (May 2025 – Aug. 2025)  
   * Conducted research on multi-agent relevance judgment for content discovery
