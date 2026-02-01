@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 
 ---
-Hi, I’m **Pritom Saha Akash**, an **Applied Scientist II at Amazon (Prime Video & Amazon MGM Studios)**. I recently completed my Ph.D. in **Computer Science at UIUC**, where I worked with **Professor Kevin Chang** on research spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-agent Systems**, and **Recommender Systems**.
+Hi, I’m **Pritom Saha Akash**, an **Applied Scientist II at Amazon (Prime Video & Amazon MGM Studios)**. I recently completed my **Ph.D. in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, where I conducted research spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **multi-agent systems**, and **recommender systems**.
 
-My research focuses on **semantic modeling, LLM-based generation, and agentic frameworks** for improving **search, recommendation, and content discovery**. I am particularly interested in how structured representations and multi-agent reasoning can improve alignment between **user intent, item relevance, and domain knowledge**. My work has been published at top venues including **ACL, EMNLP, IJCAI, and PAKDD**.
-
-I have also contributed to collaborative research efforts between **IBM–UIUC** and **eBay–UIUC**, and gained industry research experience through internships at **IBM Research (2023)** and **Amazon (2024, 2025)**.
+My research focuses on **semantic modeling**, **LLM-based generation**, and **agentic frameworks** for improving **search, recommendation, and content discovery**. I am particularly interested in how **structured representations** and **multi-agent reasoning** can better align **user intent**, **item relevance**, and **domain knowledge**. At Amazon, I work within the **Prime Video Personalization and Discovery Science** team, researching and developing **LLM- and ML-based methods** for **personalization, evaluation, and content discovery**. My work has been published at venues including **ACL, EMNLP, IJCAI, and PAKDD**, and I previously gained industry research experience through internships at **Amazon** and **IBM Research**.
 
 ---
 
