@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 
 ---
-Hi, I’m **Pritom Saha Akash**, an **Applied Scientist II at Amazon (Prime Video & Amazon MGM Studios)**. I recently completed my **Ph.D. in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, where I conducted research spanning **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **multi-agent systems**, and **recommender systems**.
+I am an **Applied Scientist II at Amazon**, working on Prime Video and Amazon MGM Studios. I completed my **Ph.D. in Computer Science at the University of Illinois Urbana-Champaign** in 2025.
 
-My research focuses on **semantic modeling**, **LLM-based generation**, and **agentic frameworks** for improving **search, recommendation, and content discovery**. I am particularly interested in how **structured representations** and **multi-agent reasoning** can better align **user intent**, **item relevance**, and **domain knowledge**. At Amazon, I work within the **Prime Video Personalization and Discovery Science** team, researching and developing **LLM- and ML-based methods** for **personalization, evaluation, and content discovery**. My work has been published at venues including **ACL, EMNLP, IJCAI, and PAKDD**, and I previously gained industry research experience through internships at **Amazon** and **IBM Research**.
+My research is in natural language processing and information retrieval, currently focused on the **evaluation of generative models**. I am interested in how quality is defined and measured when there is no single correct answer, how far automatic evaluators can stand in for human judgment given that human judgment is itself inconsistent, and what is lost when those evaluators are compressed into models small enough to run routinely.
+
+My earlier work was on unsupervised semantic modeling: topic models for short and low-resource text (EMNLP 2022, EMNLP Findings 2024, ACL 2025), unsupervised keyphrase generation (ACL 2023, ACL 2025), and retrieval for long-form generation (EMNLP Findings 2024). The two strands share a concern with quantities that cannot be observed directly, the topical structure of a document and the quality of a generated text, and in both cases the work is to build reliable estimates of something latent. I have also taught a course on LLMs for long-form text generation at UIUC, and previously interned at Amazon and IBM Research.
+
+I am always glad to talk about evaluation of generated text. [Get in touch](/contact/).
 
 ---
 
